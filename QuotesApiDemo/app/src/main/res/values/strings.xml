@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Quotes</string>
+    <string-array name="hindiQuotesTag">
+        <item> Positive </item>
+        <item> Motivational </item>
+        <item> Success </item>
+        <item> Attitude </item>
+    </string-array>
+
+    <string-array name="englishQuotesTag">
+        <item> Happiness </item>
+        <item> Age </item>
+        <item> Athletics </item>
+        <item> Business </item>
+        <item> Change </item>
+        <item> Character </item>
+        <item> Competition </item>
+        <item> Conservative </item>
+        <item> Courage </item>
+        <item> Creativity </item>
+        <item> Education </item>
+        <item> Ethics </item>
+        <item> Failure </item>
+        <item> Faith </item>
+        <item> Family </item>
+        <item> Famous-quotes </item>
+        <item> Film </item>
+        <item> Freedom </item>
+        <item> Friendship </item>
+        <item> Future </item>
+        <item> Generosity </item>
+        <item> Genius </item>
+        <item> Gratitude </item>
+        <item> Health </item>
+        <item> History </item>
+        <item> Honor </item>
+        <item> Humor </item>
+        <item> Humorous </item>
+        <item> Imagination </item>
+        <item> Inspirational </item>
+        <item> Knowledge </item>
+        <item> Leadership </item>
+        <item> Life </item>
+        <item> Literature </item>
+        <item> Love </item>
+        <item> Mathematics </item>
+        <item> Motivational </item>
+        <item> Nature </item>
+        <item> Opportunity </item>
+        <item> Pain </item>
+        <item> Perseverance </item>
+        <item> Philosophy </item>
+        <item> Politics </item>
+        <item> Power-quotes </item>
+        <item> Proverb </item>
+        <item> Religion </item>
+        <item> Sadness </item>
+        <item> Science </item>
+        <item> Self </item>
+        <item> Self-help </item>
+        <item> Social-justice </item>
+        <item> Society </item>
+        <item> Spirituality </item>
+        <item> Sports </item>
+        <item> Stupidity </item>
+        <item> Success </item>
+        <item> Technology </item>
+        <item> Time </item>
+        <item> Tolerance </item>
+        <item> Truth </item>
+        <item> Virtue </item>
+        <item> War </item>
+        <item> Weakness </item>
+        <item> Wellness </item>
+        <item> Wisdom </item>
+        <item> Work </item>
+    </string-array>
+</resources>
