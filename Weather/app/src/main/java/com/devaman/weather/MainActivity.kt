@@ -28,7 +28,7 @@ class MainActivity : AppCompatActivity() {
         // Change status bar Color
         window.statusBarColor= Color.parseColor("#1318c3")
 
-        val apikey = "69b247caf0deb9022639eb57f51e9961"
+        val apikey = ""
         val simpleurl = "https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${long}&appid=${apikey}"
         // Get Data from API
         getJsonData(lat, long, simpleurl)
@@ -36,7 +36,7 @@ class MainActivity : AppCompatActivity() {
         val buttonSearch = findViewById<ImageButton>(R.id.buttonSearch) as ImageButton
         buttonSearch.setOnClickListener{
             val editTextSearch = findViewById<EditText>(R.id.editTextSearch).text.toString()
-            val url_byCity = "https://api.openweathermap.org/data/2.5/weather?q=${editTextSearch}&appid=69b247caf0deb9022639eb57f51e9961"
+            val url_byCity = "https://api.openweathermap.org/data/2.5/weather?q=${editTextSearch}&appid="
             getJsonData(lat, long, url_byCity)
         }
     }
