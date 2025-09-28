@@ -13,7 +13,7 @@ import java.net.URL;
 public class fetchData extends AsyncTask<Void, Void, String> {
     private static final String TAG = "FetchDataTask";
 
-    private static final String API_KEY = "820602981amsheb5ce375d2722c1p12dc14jsndda819697089";
+    private static final String API_KEY = "";
 
     @Override
     protected String doInBackground(Void... voids) {
