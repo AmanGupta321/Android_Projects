@@ -73,7 +73,7 @@ public class MyFragment extends Fragment {
         Request request = new Request.Builder()
                 .url("https://random-quote-fact-joke-api.p.rapidapi.com/fact")
                 .get()
-                .addHeader("X-RapidAPI-Key", "820602981amsheb5ce375d2722c1p12dc14jsndda819697089")
+                .addHeader("X-RapidAPI-Key", "")
                 .addHeader("X-RapidAPI-Host", "random-quote-fact-joke-api.p.rapidapi.com")
                 .build();
 
