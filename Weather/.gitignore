@@ -1,0 +1,28 @@
+# Android Studio / Gradle
+.gradle/
+/local.properties
+/.idea/
+/build/
+/captures/
+*.iml
+*.apk
+*.ap_
+
+# Kotlin
+*.kotlin_module
+
+# Generated files
+**/build/
+**/captures/
+
+# Misc
+.DS_Store
+
+# Gradle wrapper
+!gradle/wrapper/gradle-wrapper.jar
+
+# Exclude user-specific files
+*/local.properties
+
+# Ignore logs
+*.log
