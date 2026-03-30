@@ -52,7 +52,7 @@ public class MainActivity extends AppCompatActivity {
         getWeather(getCurrentFocus());
     }
     public void getWeather(View view){
-        String apikey = "d4c70ae853a0c4b4a963a1c4b720234d";
+        String apikey = "YOUR_KEY";
         String city = editTextSearch.getText().toString();
         editTextSearch.setText("");
         String url_byCity = "https://api.openweathermap.org/data/2.5/weather?q="+city+"&appid="+apikey;
