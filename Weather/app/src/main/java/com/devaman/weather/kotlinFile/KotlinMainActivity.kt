@@ -52,7 +52,7 @@ class KotlinMainActivity : AppCompatActivity() {
     }
 
     fun getWeather(view: View?) {
-        val apikey = "d4c70ae853a0c4b4a963a1c4b720234d"
+        val apikey = "YOUR_KEY"
         val city = editTextSearch!!.text.toString()
         if (city.isEmpty()) return
         
