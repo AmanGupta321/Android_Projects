@@ -49,11 +49,13 @@ A simple Android calculator app that performs basic arithmetic operations.
 
 ## Screenshots
 
-(Add screenshots here)
+
+<img display="inline" width="375" height="667" alt="Screenshot_20260331_064506" src="https://github.com/user-attachments/assets/faf066b6-e20e-42e0-b347-20b69c550206" />
+<img display="inline" width="375" height="667" alt="Screenshot_20260331_070203" src="https://github.com/user-attachments/assets/0e5c1b05-5b01-49d2-9b5b-287fe6cdd951" />
 
 ## APK
 
-(Download link or instructions)
+https://github.com/AmanGupta321/Android_Projects/releases/download/v1.0/app-release.apk
 
 ## Author
 
