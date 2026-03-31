@@ -54,10 +54,10 @@ A simple Android calculator app that performs basic arithmetic operations.
 <img display="inline" width="375" height="667" alt="Screenshot_20260331_070203" src="https://github.com/user-attachments/assets/0e5c1b05-5b01-49d2-9b5b-287fe6cdd951" />
 
 
-## 📲 Download App
+## Download App
 
 Get the latest version of the app here:
-👉 [⬇️ Download Latest APK](https://github.com/AmanGupta321/Android_Projects/releases/latest)]
+[⬇️ Download Latest APK](https://github.com/AmanGupta321/Android_Projects/releases/latest)]
 
 
 ### 📌 Version History
