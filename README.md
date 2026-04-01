@@ -2,21 +2,6 @@
 
 A collection of Android applications showcasing modern Android development practices with Kotlin, Material Design, and Android Jetpack.
 
-**Author:** Aman Gupta  
-**Language:** Kotlin  
-**Repository:** [AmanGupta321/Android_Projects](https://github.com/AmanGupta321/Android_Projects)
-
----
-
-## 📋 Table of Contents
-
-- [Projects](#projects)
-- [Tech Stack](#tech-stack)
-- [Getting Started](#getting-started)
-- [Installation](#installation)
-- [Repository Structure](#repository-structure)
-- [License](#license)
-
 ---
 
 ## 🚀 Projects
