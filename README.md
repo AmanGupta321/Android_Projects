@@ -25,6 +25,7 @@ A feature-rich calculator application that performs basic arithmetic operations 
 📖 [**View Full Details →**](./Basic%20Calculator/README.md)  
 ⬇️ [**Download APK**](https://github.com/AmanGupta321/Android_Projects/releases/download/v1.0/app-release.apk)
 
+
 ---
 
 ### 2. **Weather App**
@@ -44,7 +45,7 @@ A modern weather application that displays current weather conditions and foreca
 - **Architecture:** Modern Android practices
 
 📖 [**View Full Details →**](./Weather/README.md)
-
+⬇️ [**Download APK**](https://github.com/AmanGupta321/Android_Projects/releases/download/Calculator_v1.0.0/app-release.apk)
 ---
 
 ## 🛠️ Tech Stack
